@@ -1,0 +1,75 @@
+/*Countdown*/
+
+.countdown div {
+    display: inline-block;
+}
+
+.countdown span {
+    display: block;
+}
+
+.countdown {
+    text-align: center;
+}
+
+.count {
+    margin-bottom: 20px;
+}
+
+.osteo-countdownt-style-1 .count {
+    color: #000200;
+    background-color: #FFE459;
+    padding: 10px 30px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.osteo-countdownt-style-1 .count span {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.osteo-countdownt-style-2 .count {
+    color: #000200;
+    background-color: #FFE459;
+    padding: 20px 30px;
+    font-size: 30px;
+    font-weight: 700;
+    border-radius: 100%;
+    width: 120px;
+    height: 120px;
+}
+
+.osteo-countdownt-style-2 .count span {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.osteo-countdownt-style-3 .count {
+    color: #000200;
+    border: 2px solid #FFE459;
+    padding: 10px 30px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.osteo-countdownt-style-3 .count span {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.osteo-countdownt-style-4 .count {
+    color: #000200;
+    border: 2px solid #FFE459;
+    padding: 20px 30px;
+    font-size: 30px;
+    font-weight: 700;
+    border-radius: 100%;
+    width: 120px;
+    height: 120px;
+}
+
+.osteo-countdownt-style-4 .count span {
+    font-size: 16px;
+    font-weight: 600;
+}
